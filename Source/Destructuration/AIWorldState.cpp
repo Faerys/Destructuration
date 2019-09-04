@@ -47,3 +47,4 @@ void AIWorldState::SetWSProp(AI_WORLDSTATE_SYMBOL symbolName, FVector value)
 //Deuxième modification
 //Troisième test
 //Ceci est un test de feature
+//Ceci est un test release
